@@ -1,5 +1,5 @@
 // Purpose: Photo Editor.
-// Description: This program applies some effects to photos;
+// Description: This program applies some effects to photos.
 // Author: Esraa Emary Abd Elsalam.
 // version: 4.
 //========================================================================================================================================//
